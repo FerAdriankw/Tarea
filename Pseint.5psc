@@ -4,6 +4,6 @@ Algoritmo sin_titulo
 	Leer b
 	Escribir "Ingrese el valor de la altura: "
 	Leer h
-	Escribir "El área del rectangulo es: ", b*h
+	Escribir "El Ã¡rea del rectangulo es: ", b*h
 	
 FinAlgoritmo
