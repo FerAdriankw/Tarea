@@ -5,10 +5,10 @@ Algoritmo  sin_titulo
     Definir cadena Como Cadena
     Definir entradaBoleano Como Entero
 	
-    Escribir "Ingrese un número entero: "
+    Escribir "Ingrese un nÃºmero entero: "
     Leer entero
 	
-    Escribir "Ingrese un número flotante: "
+    Escribir "Ingrese un nÃºmero flotante: "
     Leer flotante
 	
     Escribir "Ingrese un valor booleano (1 para Verdadero, 0 para Falso): "
@@ -19,8 +19,8 @@ Algoritmo  sin_titulo
 	
     Escribir " "
     Escribir "Datos ingresados:"
-    Escribir "Número entero: ", entero
-    Escribir "Número flotante: ", flotante
+    Escribir "NÃºmero entero: ", entero
+    Escribir "NÃºmero flotante: ", flotante
     Escribir "Valor booleano: ", boleano
     Escribir "Cadena de texto: ", cadena
 Fin Algoritmo
